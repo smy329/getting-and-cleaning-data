@@ -48,5 +48,5 @@ You should create one R script called run_analysis.R that does the following.
 2. unzip raw data
 3. open a R console and set the working directory to the repository root (use setwd())
 4. source run_analisys.R script (it requires the dplyr package): `source('run_analysis.R')`
-5. when you run the R script, UCI HAR Dataset
+5. when you run the R script, UCI HAR Dataset will be downloaded automatically
 
